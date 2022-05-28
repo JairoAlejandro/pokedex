@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', Arial, Helvetica, sans-serif;
+}
+body{
+    min-height: 100vh;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 28px;
+}
+img{
+    width: 100%;
+}
+::-webkit-scrollbar{
+    color: red;
+    background-color: red;
+}
+::-webkit-scrollbar-thumb{
+    background-color: red;
+}
